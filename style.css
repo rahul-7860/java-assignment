@@ -1,0 +1,19 @@
+#root input {
+    background-color: white;  
+    color: black;
+  }
+  
+  #root input:hover {
+    background-color: white;  
+    color: red;
+  }
+
+  .blue-white {
+       background-color: white; 
+       color: blue
+              }
+
+.blue-white:hover {
+     background-color: blue;
+    color: white
+    }
